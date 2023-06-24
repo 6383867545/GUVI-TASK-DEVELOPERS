@@ -1,1 +1,11 @@
 # GUVI-TASK-DEVELOPERS
+### Assets
+   # Login.HTML
+   # Profile.HTML
+   # Register.HTML
+### CSS
+# Style.css
+### JS
+# register.js
+### PHP
+#  Login.php
